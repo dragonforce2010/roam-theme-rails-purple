@@ -3,6 +3,7 @@ import './rails-purple.css'
 
 
 function onload() {
+  document.body.className = 'rails-purple'
 }
 
 function onunload() {
